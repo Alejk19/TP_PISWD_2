@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Verdana, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+p, label, input, select {
+    text-align: justify;
+}
+
+.imagen {
+    width: 100%;
+    height: 30vh;
+}
+
+.contenedor{
+    margin-left: 20px;
+}
+
+img{
+    max-height: 100%;
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+form{
+    max-width: 350px;
+}
+
+.pie{
+    text-align: center;
+}
+
